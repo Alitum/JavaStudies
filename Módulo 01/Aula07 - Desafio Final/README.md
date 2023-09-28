@@ -2,4 +2,4 @@
 
 Desafio final do primeiro módulo do curso de java em parceria do EuCurso com a +PraTI
 
-<img src=/assets/Aula07-DesafioFinal.png>
+<img src=/Assets/Module01/img/Aula07-DesafioFinal.png>
