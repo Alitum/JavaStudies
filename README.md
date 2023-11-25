@@ -17,9 +17,8 @@
 - [x]  [Módulo 01](https://github.com/Alitum/JavaStudies/tree/main/M%C3%B3dulo%2001) - Introdução ao JAVA
 - [x]  [Módulo 02](https://github.com/Alitum/JavaStudies/tree/main/M%C3%B3dulo%2002) - Introdução a Orientação a Objetos
 - [x]  [Módulo 03](https://github.com/Alitum/JavaStudies/tree/main/M%C3%B3dulo%2003) - Orientação a Objetos 2
-- [ ]  Módulo 04 - Arrays e Collections
 - [x]  [Módulo 04](https://github.com/Alitum/JavaStudies/tree/main/M%C3%B3dulo%2004) - Arrays e Collections
-- [ ]  Módulo 05 - Exceções, Datas e Generics
+- [x]  Módulo 05 - Exceções, Datas e Generics
 - [ ]  Módulo 06 - Programação funcional em JAVA
 - [ ]  Módulo 07 - SQL
 - [ ]  Módulo 08 - Java e MySQL
