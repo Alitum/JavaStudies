@@ -3,11 +3,11 @@ import java.util.function.*;
 public class App {
     public static void main(String[] args) throws Exception {
 
-        // ! Predicate
-        // Predicate<Integer> ePar = num -> num % 2 == 0;
+        ! Predicate
+        Predicate<Integer> ePar = num -> num % 2 == 0;
 
-        // System.out.println(ePar.test(4));
-        // System.out.println(ePar.test(7));
+        System.out.println(ePar.test(4));
+        System.out.println(ePar.test(7));
 
         // ! Function
         // Function<String, Integer> funcaoTamanho = texto -> texto.length();
